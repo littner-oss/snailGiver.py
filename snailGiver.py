@@ -1,5 +1,5 @@
 snails = 0
-while snails < 5:
+while snails < 999:
     lolput = input("Enter 'Lol' to recieve a snail: ")
     if lolput == ('Lol'):
         snails += 1
